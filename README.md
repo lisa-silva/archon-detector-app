@@ -1,4 +1,3 @@
-# archon-detector-app
 ARCHON: The Compliance Detective
 
 High-Speed, Keyword-Driven Policy Breach Detection
@@ -47,8 +46,8 @@ Prerequisites
 
 Clone the Repository:
 
-git clone [YOUR GITHUB REPO URL HERE]
-cd [your-archon-repo-name]
+git clone https://github.com/lisa-silva/archon-detector-app.git
+cd lisa-silva/archon-detector-app
 
 
 Create a Virtual Environment (venv):
